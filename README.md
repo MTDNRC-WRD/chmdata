@@ -9,6 +9,8 @@
   - TopoWX
   - **GridMET**: https://www.climatologylab.org/gridmet.html
 
+- **PRISM** from Oregon State: https://prism.oregonstate.edu/ 
+
 # Installation
  Currently a stable version can be installed with pip via git:
 
